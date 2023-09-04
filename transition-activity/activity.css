@@ -1,1 +1,10 @@
-
+.transform {
+    transition: 2.5s;
+  }
+  
+  .transform:hover {
+    color: ghostwhite;
+  } 
+  
+  
+  

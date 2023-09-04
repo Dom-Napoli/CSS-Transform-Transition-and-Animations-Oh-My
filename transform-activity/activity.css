@@ -1,4 +1,5 @@
 
+/*Translate did not function within browser. Tried various others but had to resort to solution for assistance*/
 
 main {
     transform: rotate(-10deg) skew(-10deg);
